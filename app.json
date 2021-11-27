@@ -1,0 +1,14 @@
+{
+    "name": "Telegram-bot",
+    "description": "This is a simple bot.",
+    "repository": "https://github.com/alimkimbek/vkm/",
+    "keywords": ["telegram", "qrcode-generator","telegram bot"],
+     "buildpacks": [
+      {
+        "url": "heroku/python"
+      },
+      {
+        "url": "https://github.com/heroku/heroku-buildpack-apt.git"
+      }
+    ]
+  }
