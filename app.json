@@ -1,7 +1,7 @@
 {
     "name": "Telegram-bot",
     "description": "This is a simple bot.",
-    "repository": "https://github.com/alimkimbek/vkm/",
+    "repository": "https://github.com/NinoZOOM/VKBOT/",
     "keywords": ["telegram", "qrcode-generator","telegram bot"],
      "buildpacks": [
       {
