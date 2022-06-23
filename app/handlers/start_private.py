@@ -9,8 +9,8 @@ async def send_welcome(message: Message):
     Chats.User(message.from_user.id)
     text = """Просто отправьте мне имя артиста и/или название композиции, и я найду эту композицию!!
 
-🔰 Подпишись на канал: @SJa_bots
-👨‍💻 По всем вопросам: @SJ_Lynx
+🔰 Подпишись на канал: @nino_mods
+👨‍💻 По всем вопросам: @the_farkhodov
 """
     await message.reply(text,
                         disable_web_page_preview=True, parse_mode="Html")
